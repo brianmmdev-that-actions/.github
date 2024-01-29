@@ -4,9 +4,13 @@ Hey! I'm Brian Morrison II, and I created this organization to be the home for m
 
 Feel free to contact me on Twitter [@brianmmdev](https://twitter.com/brianmmdev) if you have any questions, or email me at brian@brianmorrison.me.
 
+## Recording
+
+A link to the recording is coming soon, as soon as I can get it processed and uploaded to YouTube 🤗
+
 ## Slides
 
-For access to the slides, check the `slides` folder at root of this repository. It contains screenshots of all slides. 
+For access to the slides, check the [slides](https://github.com/brianmm-that-actions/slides) repository. It contains screenshots of all slides (which are more universal than a Keynote file). 
 
 Any sample videos presented during the talk are nested in the `videos` folder.
 
