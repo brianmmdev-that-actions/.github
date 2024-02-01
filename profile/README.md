@@ -6,7 +6,9 @@ Feel free to contact me on Twitter [@brianmmdev](https://twitter.com/brianmmdev)
 
 ## Recording
 
-A link to the recording is coming soon, as soon as I can get it processed and uploaded to YouTube 🤗
+Here is the recording from the live session:
+
+[![Watch the video](https://img.youtube.com/vi/rmrEaEptUWw/hqdefault.jpg)](https://youtu.be/rmrEaEptUWw)
 
 ## Slides
 
